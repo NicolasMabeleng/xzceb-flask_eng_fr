@@ -1,4 +1,6 @@
-""" Modules """
+""" This Python file instantiates all required packages for the
+IBM Language Translator service """
+
 import os.path
 from ibm_watson import LanguageTranslatorV3
 from ibm_cloud_sdk_core.authenticators import IAMAuthenticator
